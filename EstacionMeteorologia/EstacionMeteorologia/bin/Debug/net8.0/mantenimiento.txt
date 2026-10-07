@@ -1,3 +1,0 @@
-[02-06-2026 11:22:p. m.] | [Limpieza de sensor    ] | Limpiando sensor para Prueba de ray
-[02-06-2026 11:22:p. m.] | [Calibración           ] | Calibrando sensor para prueba de Ray
-02/06/2026 11:28 p. m. | Limpieza de sensor     | Limpiando sensor para prueba de ray
