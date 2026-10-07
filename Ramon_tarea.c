@@ -1,4 +1,7 @@
+// Matrícula: 2025-0540
+// Ramon Sandoval
 #include <stdio.h>
+
 
 int main() {
     int N, M;
